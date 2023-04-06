@@ -10,7 +10,7 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/SECQURAISE",
     element: <UsersList />,
   },
 ]);

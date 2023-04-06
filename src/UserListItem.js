@@ -7,7 +7,7 @@ function UserListItem(propws) {
 
   const onHandleId = (id) => {
     navigate({
-        pathname: '/',
+        pathname: '/SECQURAISE',
         search: `?id=${id}`,
       })
   };
