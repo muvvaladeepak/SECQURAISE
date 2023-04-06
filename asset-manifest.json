@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SECQURAISE/static/css/main.ecba779c.css",
-    "main.js": "/SECQURAISE/static/js/main.75fb2202.js",
+    "main.js": "/SECQURAISE/static/js/main.9c506ef9.js",
     "static/js/787.8eea52c4.chunk.js": "/SECQURAISE/static/js/787.8eea52c4.chunk.js",
     "index.html": "/SECQURAISE/index.html",
     "main.ecba779c.css.map": "/SECQURAISE/static/css/main.ecba779c.css.map",
-    "main.75fb2202.js.map": "/SECQURAISE/static/js/main.75fb2202.js.map",
+    "main.9c506ef9.js.map": "/SECQURAISE/static/js/main.9c506ef9.js.map",
     "787.8eea52c4.chunk.js.map": "/SECQURAISE/static/js/787.8eea52c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecba779c.css",
-    "static/js/main.75fb2202.js"
+    "static/js/main.9c506ef9.js"
   ]
 }
